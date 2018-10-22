@@ -5,6 +5,7 @@ body {
 
 .bg-dark {
     background-color: black !important;
+    
 }
 
 .text-muted {
@@ -30,8 +31,6 @@ h5 {
     text-align: center;
 
 }
-
-
 .h6,
 h6 {
     color: #383838;
@@ -40,7 +39,6 @@ h6 {
     text-align: center;
     padding: 1rem;
 }
-
 
 .navbar-light .navbar-nav .nav-link {
     color: white;
@@ -99,7 +97,6 @@ h6 {
     overflow: hidden;
 }
 
-
 .container {
     margin-top: 2rem;
 }
@@ -118,6 +115,9 @@ h6 {
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 765px;
-    right: 825px;
+    top: 781px;
+    right: 808px;
+}
+.order:hover{
+    background: black;
 }
